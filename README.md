@@ -83,15 +83,12 @@ I'm a passionate B.Tech AI & ML student specializing in building intelligent sys
 
 <div align="center">
 
-  <!-- Main Stats Card -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreekirthana123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreekirthana123&show_icons=true&theme=tokyonight&hide_border=true)
 
-  <!-- Top Languages -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreekirthana123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreekirthana123&layout=compact&theme=tokyonight&hide_border=true)
 
-  <!-- Streak Stats (Current & Longest Streak) -->
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreekirthana123&theme=tokyonight&hide_border=true)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreekirthana123&theme=tokyonight&hide_border=true)
 
 </div>
 
-Open to opportunities in AI/ML | Let's connect! 🚀
+**Open to opportunities in AI/ML | Let's connect!** 🚀
