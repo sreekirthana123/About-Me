@@ -79,10 +79,16 @@ I'm a passionate B.Tech AI & ML student specializing in building intelligent sys
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreekirthana123&show_icons=true&theme=tokyonight)
+<div align="center">
 
----
+![Stats](https://github-readme-stats.vercel.app/api?username=sreekirthana123&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreekirthana123&layout=compact&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreekirthana123&theme=tokyonight)
+
+</div>
 
 Open to opportunities in AI/ML | Let's connect! 🚀
