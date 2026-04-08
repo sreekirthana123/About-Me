@@ -38,7 +38,7 @@ Machine Learning & AI
 Data & Visualization
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&#x26;logo=streamlit&#x26;logoColor=white" alt="Streamlit">
 
-💼 Featured Projects
+```💼 Featured Projects
 🍽️ Cuisine Classification
 Multi-class ML model to categorize restaurants by cuisine using ingredients and flavor profiles.
 🍽️ Restaurant Recommendation System
@@ -48,13 +48,13 @@ Linear Regression model built from scratch with full feature engineering and gra
 🛡️ CyberGuardians
 Interactive Streamlit web app for cybersecurity awareness through quizzes.
 🤖 Natural Language Processing – AI vs Human Text Classifier
-Achieved 94% accuracy using DistilBERT.
+Achieved 94% accuracy using DistilBERT."
 
-💼 Experience
+```💼 Experience
 
 Data Science Intern @ CodSoft
 Data Engineering Intern @ Cognifyz Technologies
-Machine Learning Intern @ Cognifyz Technologies
+Machine Learning Intern @ Cognifyz Technologies"
 
 
 🏆 Certifications
